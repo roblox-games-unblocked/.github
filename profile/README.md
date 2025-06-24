@@ -6,16 +6,6 @@
 
 <p>Roblox has become one of the most popular gaming platforms worldwide, with millions of players creating and exploring virtual worlds every day. However, many schools and workplaces block access to Roblox. If you've been searching for ways to play Roblox unblocked, you've come to the right place. This comprehensive guide will show you how to access and enjoy your favorite Roblox games from anywhere.</p>
 
-<div class="cta-box">
-<h3>Ready to Play Roblox Right Now?</h3>
-<p>Visit our <a href="https://roblox-games-unblocked.github.io/" target="_blank">Roblox Unblocked Games Portal</a> for instant access to hundreds of Roblox games that work at school, work, or anywhere with internet access.</p>
-</div>
-
-<figure>
-<a href="https://roblox-games-unblocked.github.io/" target="_blank">
-    <img src="roblox-unblocked.jpg" alt="Screenshot of popular Roblox games available unblocked">
-</a>
-</figure>
 
 <h2>What Are Roblox Unblocked Games?</h2>
 <p>Roblox unblocked games are versions of Roblox that bypass network restrictions, allowing you to play even when the official Roblox website is blocked. These games:</p>
@@ -35,11 +25,7 @@
 <li><strong>Performance:</strong> Optimized for smooth gameplay on school networks</li>
 </ul>
 
-<figure>
-<a href="https://roblox-games-unblocked.github.io/" target="_blank">
-    <img src="roblox-games.jpg" alt="Collection of popular Roblox games available unblocked">
-</a>
-</figure>
+
 
 <h2>Most Popular Unblocked Roblox Games</h2>
 <p>Our unblocked Roblox portal features all the top games you love:</p>
@@ -72,11 +58,7 @@
 <li>Enjoy Roblox gameplay even on restricted networks</li>
 </ol>
 
-<figure>
-<a href="https://roblox-games-unblocked.github.io/" target="_blank">
-    <img src="how-to-play.jpg" alt="Step-by-step guide to playing Roblox unblocked">
-</a>
-</figure>
+
 
 <h2>Benefits of Our Roblox Unblocked Portal</h2>
 <p>Our platform offers several advantages over other methods of accessing Roblox:</p>
