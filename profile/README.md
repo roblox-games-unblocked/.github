@@ -44,10 +44,6 @@
 <h3>5. Arsenal</h3>
 <p>A fast-paced first-person shooter with various weapons and game modes to master.</p>
 
-<div class="cta-box">
-<h3>Play All These Games Unblocked!</h3>
-<p><a href="https://roblox-games-unblocked.github.io/" target="_blank">Click here to access our Roblox unblocked games portal</a> and start playing your favorites right now.</p>
-</div>
 
 <h2>How to Access Roblox Unblocked</h2>
 <p>Getting started with unblocked Roblox games is simple:</p>
@@ -82,10 +78,6 @@
 <h3>Q: Are all Roblox games available unblocked?</h3>
 <p>A: We offer hundreds of the most popular games, with new ones added regularly.</p>
 
-<div class="cta-box">
-<h3>Start Playing Roblox Today!</h3>
-<p>Don't let network restrictions stop you from enjoying Roblox. <a href="https://roblox-games-unblocked.github.io/" target="_blank">Visit our unblocked games portal now</a> to access your favorite games instantly.</p>
-</div>
 
 <h2>Tips for Better Unblocked Roblox Gameplay</h2>
 <p>For the best experience playing Roblox unblocked:</p>
@@ -96,11 +88,7 @@
 <li>Check back regularly for new game additions</li>
 </ul>
 
-<figure>
-<a href="https://roblox-games-unblocked.github.io/" target="_blank">
-    <img src="roblox-tips.jpg" alt="Tips for playing Roblox unblocked games">
-</a>
-</figure>
+
 
 <h2>Why Roblox is So Popular</h2>
 <p>Roblox has become a gaming phenomenon because:</p>
